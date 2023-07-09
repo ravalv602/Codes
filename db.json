@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "Id": 1,
+      "Name": "Vivek",
+      "Role": "JSE",
+      "Department":"PS"
+    },
+    {
+      "Id": 2,
+      "Name": "Virat",
+      "Role": "SE",
+      "Department":"PS"
+    },
+    {
+      "Id": 3,
+      "Name": "Dhoni",
+      "Role": "TL",
+      "Department":"PS"
+    }
+  ]
+}
